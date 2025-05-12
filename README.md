@@ -1,5 +1,6 @@
 - 👋 Hello everyone this is Anjou's GitHub
-- 👀 Now im intertested in embedded Linux, linux driver and Linux kernel
+- I hold a bachelor degree of Information Countermeasure Technology in Xidian University, and currently I am a graduate student of Communication Engineering in Nanyang Technology University
+- 👀 Now im intertested in embedded Linux, Linux driver and Linux kernel
 - 🌱 As a coding new bee, ive just finished the study of XV6, and in the future I will learn more about the OS
 - In my page I will upload some notes of the projects I finish(hopefully), and I hope these notes can help you
 
